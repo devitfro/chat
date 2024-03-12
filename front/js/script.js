@@ -37,3 +37,4 @@ const connection = new signalR.HubConnectionBuilder()
                 console.log(err);
             }
         }
+        console.log("aloha");
